@@ -1,1 +1,0 @@
-Creating pull request through git commands checking 
