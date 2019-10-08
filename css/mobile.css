@@ -1,0 +1,281 @@
+@media screen  and (max-width: 1080px) {
+    
+    footer #ads {text-align: center}
+    footer .footer_ad_group_1 {width: 100%; }
+    footer .footer_ad_group_2 {width: 100%; padding-top: 30px; }
+    footer #ads .ad.large {text-align: center;}
+    
+    
+    #single.gateway .area .area_link .description {padding-right: 70px}
+}
+
+
+@media screen and (min-width: 930px) and (max-width: 1045px) {
+    
+    #main_nav {padding: 21px 0 0 0px;text-align: center;}
+    #main_nav > li > a {padding: 5px 5px 30px; font-size: 12px}
+    
+}
+
+@media screen and (min-width: 800px) and (max-width: 930px) {
+    
+    #main_nav {padding: 21px 0 0 0px;text-align: center;}
+    #main_nav > li {padding: 0 4px 5px;}
+    #main_nav > li > a {padding: 5px 2px 30px; font-size: 12px}
+    
+        
+}
+
+
+
+@media screen and (max-width: 800px) {
+    header #social { display: inline-block; position: relative; left: 140px; z-index: 999;}
+    #buttons { position: relative; left: -30px;}
+    header {overflow: hidden;}
+    #top_options > a.ad {display: none}
+    #top {text-align: center; height: 210px; box-sizing: border-box;}
+    #show_menu {opacity: 1; left: 20px; z-index: 3;top: 20px; }
+    #logo {float: none;display: inline-block; vertical-align: middle; max-width: 280px; box-sizing: border-box;}
+    #logo img {width: auto; height: auto;}
+    #top_options {float: none; display: block; width: 100%; padding-top: 20px;position: relative;}
+    #resources {text-align: center}
+    
+    #all_elements {z-index: 2; padding-top: 0px; min-height: 100%;}
+    
+    #mobile-menu.visible {display: block; opacity: 1; -webkit-animation: smooth-blockquote 1.3s ease-in;-moz-animation: smooth-blockquote 1.3s ease-in;-o-animation: smooth-blockquote 1.3s ease-in;-ms-animation: smooth-blockquote 1.3s ease-in;animation: smooth-blockquote 1.3s ease-in;}
+    #mobile-menu {  position: absolute;  top: 0;  right: 0;  bottom: 0;  left: 0;  width: auto;  height: auto;  overflow-x:hidden; z-index: 1;}
+    .snap-drawer {  position: absolute;  top: 0;  right: auto;  bottom: 0;  left: auto;  width: 245px;  height: auto;  overflow: auto;  -webkit-overflow-scrolling: touch; overflow-x:hidden;}
+    .snap-drawer-left {  width:250px;  left: 0;  z-index: 1;}
+    #mobile-menu .sidebar-header {padding: 15px 0 5px 20px}
+    #mobile-menu .sidebar-header img {width: 40px; height: 40px}
+    #mobile-menu .sidebar-header a.ad img {float: right;    height: auto;    margin: -13px 20px 0 0;    max-height: 50px;    max-width: 50px;    width: auto;}
+    
+    #mobile-menu ul li{list-style: none}
+    #mobile-menu ul a {box-sizing: border-box; }
+    #mobile-menu ul a .fa {float: right}
+    #mobile-menu ul a:hover {color:#11b497}
+    #mobile_main_nav > li.current-menu-item > a, #mobile_main_nav > li > a:hover,
+    #mobile_main_nav > li.current-menu-ancestor > a,#mobile_main_nav > li.current-menu-parent > a{color:#11b497}
+    #mobile-menu ul > li > a {display: block; text-transform: uppercase; color:#484848; font-size: 13px; padding: 10px 20px 10px 20px}
+    #mobile-menu ul > li > a .fa-angle-down {display: none}
+    #mobile-menu ul > li.active > a .fa-angle-down {display: block}
+    #mobile-menu ul > li.active > a .fa-angle-right {display: none}
+    #mobile-menu ul > li{border-bottom: 1px solid #eaeaea}
+    #mobile-menu ul > li > ul {background-color:#f6f6f6; visibility: hidden; opacity: 0; display: none;}
+    #mobile-menu ul > li.active > ul {visibility: visible; opacity: 1; display: block}
+    #mobile-menu ul > li > ul li.heading {padding: 10px 20px 10px 20px; color:#FFF; font-size: 14px; font-style: italic;
+background: rgb(36,126,155);
+background: -moz-linear-gradient(left,  rgba(36,126,155,1) 0%, rgba(53,110,162,1) 100%);
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(36,126,155,1)), color-stop(100%,rgba(53,110,162,1)));
+background: -webkit-linear-gradient(left,  rgba(36,126,155,1) 0%,rgba(53,110,162,1) 100%);
+background: -o-linear-gradient(left,  rgba(36,126,155,1) 0%,rgba(53,110,162,1) 100%);
+background: -ms-linear-gradient(left,  rgba(36,126,155,1) 0%,rgba(53,110,162,1) 100%);
+background: linear-gradient(to right,  rgba(36,126,155,1) 0%,rgba(53,110,162,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#247e9b', endColorstr='#356ea2',GradientType=1 );
+}
+    #mobile-menu ul > li > ul li.heading > a {color:#FFF; padding: 0px; font-size: 12px;}
+    #mobile-menu ul > li > ul a { padding: 10px 20px 10px 35px}
+    
+    
+    #all_elements {  -webkit-transition: all 350ms ease-in-out;-moz-transition: all 350ms ease-in-out;-o-transition: all 350ms ease-in-out; 
+    transition:all 350ms ease-in-out;
+    
+     -webkit-transform: translate3d(0, 0, 0);     -moz-transform: translate3d(0, 0, 0);      -ms-transform: translate3d(0, 0, 0);       -o-transform: translate3d(0, 0, 0);          transform: translate3d(0, 0, 0);
+      position: relative;
+    }
+    
+    #all_elements.slide-right {transform:translateX(246px);    -webkit-transform:translateX(246px);   bottom: 0;    left: 0;    position: absolute;    right: 0;    top: 0;}  
+    
+    #inner_elements {padding-top: 208px;position: absolute;  top: 0;  right: 0;  bottom: 0;  left: 0;  width: auto;  height: auto;  z-index: 2;  overflow: auto;  -webkit-overflow-scrolling: touch;  background-color: #fff;}
+    
+    
+    header #main_menu {display: none}
+    header #utilities {display: none}
+    
+    .wrapper {padding: 0 20px;}
+    #content {width: 74%; padding-left: 20px; box-sizing: border-box}
+    .full_width #content {padding-left: 0px}
+    #sidebar {width: 26%; position: relative !important;}
+    
+    #feature {height: 720px;}
+    #feature .wrapper {position: static;}
+    #feature .flexslider .slides > li {height: 720px; position: relative;}
+    #feature .gradient {display: none}
+    #feature .gradient_arrow {display: none}
+    #feature .media {width: 100%; margin-top: 130px; height: 520px;left: -300px;    padding-right: 300px;}
+    #feature .description {float: none; padding: 0px}
+    #feature .description > .title {position: absolute; top: 0px; left: 0px; z-index: 2; padding: 30px 20px 30px 30px; box-sizing: border-box; display: block;
+    background: -moz-linear-gradient(left,  rgba(7,165,147,.9) 0%, rgba(63,83,164,.9) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(7,165,147,.9)), color-stop(100%,rgba(63,83,164,.9))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(7,165,147,.9) 0%,rgba(63,83,164,.9) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  rgba(7,165,147,.9) 0%,rgba(63,83,164,.9) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  rgba(7,165,147,.9) 0%,rgba(63,83,164,.9) 100%); /* IE10+ */
+background: linear-gradient(to right,  rgba(7,165,147,.9) 0%,rgba(63,83,164,.9) 100%); /* W3C */}
+    #feature .description > .title h1 {display: block;  font-size: 30px; text-align: center; padding: 0px}
+    #feature .description .read_more {display: none}
+    #feature .description .blockquote{background-color:rgba(63, 83, 164, 0.85); position: absolute; bottom: 0px; left: 0px; z-index: 2; padding: 30px 20px 30px 30px}
+    #feature .description blockquote {margin-top: 0px}
+    
+    #feature .flex-control-nav {display: none}
+    
+    
+    #info {background-image: none}
+    #info .block_1_2 {padding: 40px 0px 20px 0px; text-align: center}
+    #info .block_2_2 {padding: 0px 0px 30px 0px;}
+    #info ul {padding-left: 30px;}
+    
+    #start_journey p {font-size: 32px;padding: 25px 0; line-height: 40px;}
+    
+    #grids .block {width: 50%}
+    #grids .box {padding: 35px 30px 30px;}
+    
+    .block_1_2, .block_2_2 {width: 100%; display: block; padding-right: 0px}
+    
+    #intro .block_1_2 {padding: 20px 30px 40px 30px;}
+    #intro .block_2_2 {padding: 20px 20px 30px 20px;}
+    
+    #gateway .row {float: left; width: 100%;}
+    #gateway .info_wrapper {padding-bottom: 30px}
+    #gateway .row .media {position: relative;}
+    #gateway .row .info {position: relative}
+    #gateway .row.left .media {float: right;right: auto;    top: auto;}
+    #gateway .row.left .info {float: left; left: auto; top: auto;}
+    #gateway .row .info {float: right;right: auto;    top: auto;}
+    #gateway .row .media {float: left; left: auto; top: auto;}
+    
+    #sidebar .widget_gateway_items li a {font-size: 12px}
+    #single.gateway #content .block_1_2 {padding-bottom: 20px}
+    #single.gateway #content .block_2_2 {padding-left: 0px}
+    #single.gateway #content .area h2 {max-width: 100%;}
+    #single.gateway #intro .block_1_2 {padding-bottom: 0px; padding-right: 0px}
+    #single.gateway #intro .block_2_2 {display: none}
+    
+    #single.video  ul#videos li {width: 50%}
+    
+    footer #desktop_ads {display: none}
+    footer #mobile_ads {display: block}
+           
+    
+    footer #back_top {left: 0px; display: none}   
+    
+    .fancybox-wrap .fancybox-title .el_description {width: 100%; padding-left: 0px }
+    .fancybox-wrap .fancybox-title .el_title {width: 100%; padding-right: 0px; font-size: 16px;}
+    
+    #newsletter a.button {margin-left: 00px}
+}
+
+@media screen and (max-width: 600px) {
+    /*header #social {display: none}*/
+    header #social { display: inline-block; position: relative; left: 15px;}
+    #logo {max-width: 50%}
+    #show_menu {font-size: 12px; top: 17px}
+    #show_menu .fa {font-size: 20px}
+    
+    #feature .description > .title h1 { font-size: 24px;}
+    #feature .description .blockquote{ padding: 10px 50px 30px}
+    
+    #gateway .row .media {width: 100%; height: 300px !important}
+    #gateway .row .info {width: 100%}
+    #gateway .row.left .info_wrapper {float: none}
+    #gateway .row .media {height: 300px}
+    
+    #single.gateway {padding-top: 20px}
+    #single.gateway .area .subsection, #single.gateway #content .area .sub_divider{height: 0px; overflow: hidden;
+    -webkit-transition: all .2s ease-in-out;
+-moz-transition: all .2s ease-in-out;
+-o-transition: all .2s ease-in-out;
+transition: all .2s ease-in-out; opacity: 0; margin: 0px}
+    #single.gateway .area.active .subsection, #single.gateway .area.active .sub_divider{height: auto;opacity: 1;}
+    #single.gateway #content .area h2 {cursor: pointer}
+    
+    #content {width: 100%; padding-left: 0px}
+    #sidebar {width: 100%; padding-bottom: 20px}
+    
+    #intro {padding-top: 0px}
+    
+    #single.gateway #content .area h2 .bit {display: block}
+    #single.gateway .area.active .subsection {padding-top: 30px; width: 100%}
+    
+    #share .close, .fancybox-wrap .close {right: 10px; top: 10px;}
+    .fancybox-wrap .close a.bit img {width: 25px; height: 25px}
+    
+    #inner_elements #single.gateway #content .block_1_1{    -webkit-column-count: 1;     -moz-column-count: 1; /* Firefox */    column-count: 1;    }
+}
+
+@media screen and (max-width: 520px) {
+    #grids .block {width: 100%} 
+    
+    #section_header h1 {font-size: 28px; padding: 10px 0}  
+    #section_header img {height: 80px; width: 80px;}
+    
+    #search textarea {font-size: 24px;}
+}
+
+
+@media screen and (max-width: 480px) {
+    #top {padding: 10px 0;}
+    #logo {max-width: inherit; float: right}
+    #logo img {width: 180px}
+    #top {height: 160px}
+    #top_options {float: left}
+    
+    #inner_elements {padding-top: 158px}
+    
+    #feature {height: 640px;}
+    #feature .flexslider .slides > li {height: 640px; }
+    #feature .media {height: 440px}
+    #feature .description .blockquote{ padding: 10px 0px 10px 10px}
+    #feature .flex-active-slide .description blockquote {font-size: 16px;}
+    
+    #intro h2 {font-size: 22px; line-height: 28px;}
+    #intro .block_1_2 {padding: 20px 0px 20px 0px;}
+    #intro .block_2_2 {padding: 20px 0px 20px 0px;}
+    
+    #gateway .info_wrapper {padding: 30px 20px 30px 20px;}
+    #gateway .row .info {min-height: auto;}
+    #gateway .info h1 {font-size: 28px}
+    
+    #single.gateway #content .quote_block p {font-size: 28px; line-height: 36px; padding: 33px 20px;}
+    
+    #single.video  ul#videos li {width: 100%}
+}
+
+
+@media screen  and (max-width: 380px) {
+    
+    footer #ads .ad.small {padding-bottom: 12px}
+    footer .footer_ad_group_2 {padding-top: 28px}
+    
+    
+    
+}
+
+@media screen  and (max-width: 350px) {
+    header #social {display: none}
+
+    #buttons {display: none}
+    #mobile_search.button {display: block; cursor: pointer; margin-left: 0px; text-align: left;}
+    #mobile_search input {border: 1px solid transparent; background-color: transparent; font-size: 14px; color:gray; font-style: italic; box-sizing: border-box; font-style: italic; float: left; width: 87%}
+    #mobile_search .fa {font-size: 16px; float: right; margin-top: -2px; padding-right: 0;}
+    
+    #top_options .button {font-size: 8px}
+    
+    #feature .description > .title h1 { font-size: 20px; line-height: 28px;}
+}
+
+@media screen and (max-width: 600px){
+    .intro-header-grid{
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr;
+    }
+    .intro-header-grid > div {
+      text-align: center;
+    }
+    .intro-header-grid div:nth-child(1){
+      font-size: 4em;
+    }
+    div.about_column{
+      text-align: center;
+    }
+  }
+ 
